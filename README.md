@@ -45,7 +45,7 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 <br>
 
 ## 📂 Projects  
-### 🔹 AI-Based Renewable Energy Forecasting  
+### [🔹 AI-Based Renewable Energy Forecasting](https://github.com/prajindra/Data-Analytics-for-Engineers)  
 - Developed **machine learning models** for **solar energy yield prediction**, improving accuracy by **20%**.  
 - Integrated **big data analytics** to optimize **large-scale solar (LSS) farm performance**.  
 
