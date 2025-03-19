@@ -13,7 +13,8 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 - **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
 
 <br>
-![](/assets/img/)
+
+![Skill Logos](/assets/img/skills.png)
 
 ## 🎓 Education  
 - **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  
@@ -31,6 +32,10 @@ I am a <strong>Senior Lecturer at Universiti Tenaga Nasional (UNITEN)</strong> s
 ### **Core Researcher @ Institute of Sustainable Energy (HICoE) (2025 - 2027)**  
 - Developed **Perovskite solar cells** with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
 - Led **solar-powered IoT sensor deployment** for shrimp farming in Sabah, Malaysia.  
+
+[![Watch the video](https://img.youtube.com/vi/SOr5_bDiLEM/maxresdefault.jpg)](https://youtu.be/SOr5_bDiLEM)
+
+### [Watch this video on YouTube](https://youtu.be/SOr5_bDiLEM)
 
 ### **Consultancy & Industry Projects**  
 - **Smart Billing Data Analytics for TNB:** AI-driven fraud detection system, reducing non-technical losses by **10%**.  
